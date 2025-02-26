@@ -1,0 +1,47 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #da7f7f;
+  }
+  
+  .box {
+    background-color: #4CAF50; /* caktojme background color */
+    padding: 100px; /*caktojme padding  brenda  box */
+    margin: 60px; /* caktojme margin jasht box */
+    color: white; /* color i tekstit */
+    width: 300px; /* Width/gjeresia e box */
+    text-align: center; /* Center text */
+    border-radius: 10px; /*rounded corners per box-in */
+  }
+  .boxx{
+   background-color:rgb(241, 191, 172);
+    padding: 100px;
+    margin:60px;
+    color:rgb(223, 229, 241);
+    width:300px;
+    text-align:center;
+    border-radius:10px ;
+
+  }
+  .boxxx{
+    background-color: rgb(144, 63, 168);
+    padding:30px;
+    margin:100px;
+    color:beige;
+    width:600px;
+    text-align:center;
+    border-radius: 200px;
+    border-color: blue;
+
+
+
+
+  }
+  
+

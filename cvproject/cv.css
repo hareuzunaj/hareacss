@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+}
+.sidebar {
+    background: #111;
+    color: white;
+    width: 30%;
+    padding: 20px;
+    text-align: center;
+}
+.sidebar img {
+    width: 100px;
+    border-radius: 50%;
+}
+.sidebar h2 {
+    margin-top: 20px;
+}
+.section-title {
+    text-align: left;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+.content {
+    width: 70%;
+    padding: 20px;
+}
+.job-title {
+    font-weight: bold;
+}
+.job-period {
+    font-style: italic;
+}
+.skills, .about {
+    text-align: left;
+}
